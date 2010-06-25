@@ -1,0 +1,3 @@
+Run specs with RSpec 2
+----------------------
+$ rspec spec -f n -c
